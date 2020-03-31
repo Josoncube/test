@@ -2,7 +2,7 @@ import java.util.jar.Attributes.Name;
 
 
 public class Text {
-
+//git≤‚ ‘
 	public static void main(String[] args) {
 		Text n1 = new Text();
 		int cishu = n1.name();
